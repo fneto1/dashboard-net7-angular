@@ -1,0 +1,86 @@
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\appsettings.Development.json
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\appsettings.json
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\teste-api.exe
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\teste-api.deps.json
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\teste-api.runtimeconfig.json
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\teste-api.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\teste-api.pdb
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Humanizer.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Npgsql.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programação\c-sharp\Iniciando\teste-api\bin\Debug\net7.0\System.CodeDom.dll
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\teste-api.csproj.AssemblyReference.cache
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\teste-api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\teste-api.AssemblyInfoInputs.cache
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\teste-api.AssemblyInfo.cs
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\teste-api.csproj.CoreCompileInputs.cache
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\teste-api.MvcApplicationPartsAssemblyInfo.cs
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\teste-api.MvcApplicationPartsAssemblyInfo.cache
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\staticwebassets\msbuild.teste-api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\staticwebassets\msbuild.build.teste-api.props
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.teste-api.props
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.teste-api.props
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\staticwebassets.build.json
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\staticwebassets.development.json
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\scopedcss\bundle\teste-api.styles.css
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\teste-api.csproj.CopyComplete
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\teste-api.dll
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\refint\teste-api.dll
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\teste-api.pdb
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\teste-api.genruntimeconfig.cache
+D:\Programação\c-sharp\Iniciando\teste-api\obj\Debug\net7.0\ref\teste-api.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\appsettings.json
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\teste-api.exe
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\teste-api.deps.json
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\teste-api.runtimeconfig.json
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\teste-api.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\teste-api.pdb
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Humanizer.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Npgsql.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\teste-api.csproj.AssemblyReference.cache
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\teste-api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\teste-api.AssemblyInfoInputs.cache
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\teste-api.AssemblyInfo.cs
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\teste-api.csproj.CoreCompileInputs.cache
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\teste-api.MvcApplicationPartsAssemblyInfo.cs
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\teste-api.MvcApplicationPartsAssemblyInfo.cache
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\staticwebassets\msbuild.teste-api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\staticwebassets\msbuild.build.teste-api.props
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.teste-api.props
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.teste-api.props
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\scopedcss\bundle\teste-api.styles.css
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\teste-api.csproj.CopyComplete
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\teste-api.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\refint\teste-api.dll
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\teste-api.pdb
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\teste-api.genruntimeconfig.cache
+D:\Programação\ASP.NET Core + Angular Dashboard\Advantage.API\obj\Debug\net7.0\ref\teste-api.dll
